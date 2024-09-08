@@ -6,9 +6,10 @@ A Solana volume bot integrated with Jito 🚀
 This script uses the [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package to get swap instructions and send transactions with Jito.
 
 ## Example Usage
+Here we run the script on a random **pump.fun** token:
 
 
-https://github.com/user-attachments/assets/b0a626ce-155d-4168-bb2f-76a31f053652
+https://github.com/user-attachments/assets/37dc68b8-dea2-42e7-b6de-3e2ccdaed532
 
 
 
