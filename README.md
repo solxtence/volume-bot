@@ -5,12 +5,19 @@ A Solana volume bot integrated with Jito 🚀
 
 This script uses the [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package to get swap instructions and send transactions with Jito.
 
+## Example Usage
+
+
+https://github.com/user-attachments/assets/b0a626ce-155d-4168-bb2f-76a31f053652
+
+
+
 ## Key Features
 
 - **Jito Integrated**: 🚀 Experience much faster buys and sells with Jito.
 - **It's Fast**: ⏱️ Average 1-3 buys and sells per minute.
 - **Easy Setup and Use**: ⚙️ Simple to set up and easy to use.
-- **Supports Multiple Platforms**: 🌐 Compatible with all platforms like Pump.fun, Raydium, Moonshot, Ocra and more with the help of our [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package.
+- **Supports Multiple Platforms**: 🌐 Compatible with all platforms like Pump.fun, Raydium, Moonshot, Ocra, and more with the help of our [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package.
 
 ## Prerequisites
 
