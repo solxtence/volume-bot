@@ -3,10 +3,10 @@
 
 A Solana volume bot integrated with Jito 🚀
 
-This script uses the [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package to get swap instructions and send transactions with Jito.
+This script uses our [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package to get swap instructions and send transactions with Jito.
 
 ## Example Usage
-Here we run the script on a random **pump.fun** token:
+Here we use the bot on a random **pump.fun** token:
 
 
 https://github.com/user-attachments/assets/37dc68b8-dea2-42e7-b6de-3e2ccdaed532
@@ -14,9 +14,9 @@ https://github.com/user-attachments/assets/37dc68b8-dea2-42e7-b6de-3e2ccdaed532
 
 
 ## Key Features
-
 - **Jito Integrated**: 🚀 Experience much faster buys and sells with Jito.
-- **It's Fast**: ⏱️ Average 1-3 buys and sells per minute.
+- **It's Free**: 👍 This is the basic version of our volume bot and it's completely free to use (An advanced version will be available soon!)
+- **It's Fast**: ⏱️ Minimum 1-3 buys and sells per minute (Depending on the Jito tip).
 - **Easy Setup and Use**: ⚙️ Simple to set up and easy to use.
 - **Supports Multiple Platforms**: 🌐 Compatible with all platforms like Pump.fun, Raydium, Moonshot, Ocra, and more with the help of our [solana-swap](https://www.npmjs.com/package/@solxtence/solana-swap) package.
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/37dc68b8-dea2-42e7-b6de-3e2ccdaed532
 
    ```
    PRIVATE_KEY=your_private_key_here
-   RPC_URL=https://your.rpc.url
+   RPC_URL=https://api.mainnet-beta.solana.com
    ```
 
 5. Run the script:
