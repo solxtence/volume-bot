@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/37dc68b8-dea2-42e7-b6de-3e2ccdaed532
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/volume-bot.git
+   git clone https://github.com/solxtence/volume-bot.git
    cd volume-bot
    ```
 
